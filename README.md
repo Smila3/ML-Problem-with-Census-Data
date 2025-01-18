@@ -1,6 +1,3 @@
-
-
-This project was built using [Jupyter Notebooks] (https://jupyter.org/).
 # Prediction Model for Household Income
 
 ## Description:
@@ -11,4 +8,4 @@ After a lengthful process of data cleaning and preparation, feature selection an
 
 This project used the tools listed below
 
-For data analysis, preparation and prediction [Jupyter Notebooks](#https://jupyter.org/).
+For data analysis, preparation and prediction [Jupyter Notebooks](https://jupyter.org/).
